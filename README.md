@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup">
+  <a href="https://github.com/jbirbal-skydom/termux-rustnride">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -24,14 +24,14 @@
   <p align="center">
     A comprehensive guide to setting up Rust, JupyterLab, Code-Server, and OpenCV on Android using Termux!
     <br />
-    <a href="https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jbirbal-skydom/termux-rustnride"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup">View Demo</a>
+    <a href="https://github.com/jbirbal-skydom/termux-rustnride">View Demo</a>
     ·
-    <a href="https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup/issues">Report Bug</a>
+    <a href="https://github.com/jbirbal-skydom/termux-rustnride/issues">Report Bug</a>
     ·
-    <a href="https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup/issues">Request Feature</a>
+    <a href="https://github.com/jbirbal-skydom/termux-rustnride/issues">Request Feature</a>
   </p>
 </div>
 
@@ -314,7 +314,7 @@ _For more examples and usage, please refer to the [OpenCV Documentation](https:/
 - [ ] Automate the installation process with scripts
 - [ ] Expand guide to include other programming languages
 
-See the [open issues](https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jbirbal-skydom/termux-rustnride/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -353,7 +353,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
 
-Project Link: [https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup](https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup)
+Project Link: [https://github.com/jbirbal-skydom/termux-rustnride](https://github.com/jbirbal-skydom/termux-rustnride)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -378,16 +378,16 @@ Project Link: [https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-O
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup.svg?style=for-the-badge
-[contributors-url]: https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup.svg?style=for-the-badge
-[forks-url]: https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup/network/members
-[stars-shield]: https://img.shields.io/github/stars/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup.svg?style=for-the-badge
-[stars-url]: https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup/stargazers
-[issues-shield]: https://img.shields.io/github/issues/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup.svg?style=for-the-badge
-[issues-url]: https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup/issues
-[license-shield]: https://img.shields.io/github/license/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup.svg?style=for-the-badge
-[license-url]: https://github.com/your_username/Termux-Rust-Jupyter-CodeServer-OpenCV-Setup/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/jbirbal-skydom/termux-rustnride.svg?style=for-the-badge
+[contributors-url]: https://github.com/jbirbal-skydom/termux-rustnride/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jbirbal-skydom/termux-rustnride.svg?style=for-the-badge
+[forks-url]: https://github.com/jbirbal-skydom/termux-rustnride/network/members
+[stars-shield]: https://img.shields.io/github/stars/jbirbal-skydom/termux-rustnride.svg?style=for-the-badge
+[stars-url]: https://github.com/jbirbal-skydom/termux-rustnride/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jbirbal-skydom/termux-rustnride.svg?style=for-the-badge
+[issues-url]: https://github.com/jbirbal-skydom/termux-rustnride/issues
+[license-shield]: https://img.shields.io/github/license/jbirbal-skydom/termux-rustnride.svg?style=for-the-badge
+[license-url]: https://github.com/jbirbal-skydom/termux-rustnride/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/your_linkedin
 
